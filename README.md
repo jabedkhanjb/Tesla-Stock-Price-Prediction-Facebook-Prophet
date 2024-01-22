@@ -1,9 +1,27 @@
 
-Description of your repository.
-
-## Screenshots
+# Tesla Stock Market Price Prediction using Facebook Prophet
+## Screenshots of the entire code
 
 ![Screenshot 1](Screenshot/1.jpg)
 ![Screenshot 2](Screenshot/2.jpg)
-...
+![Screenshot 3](Screenshot/3.jpg)
+![Screenshot 4](Screenshot/4.jpg)
+![Screenshot 5](Screenshot/5.jpg)
+![Screenshot 6](Screenshot/6.jpg)
+![Screenshot 7](Screenshot/7.jpg)
+![Screenshot 8](Screenshot/8.jpg)
+![Screenshot 9](Screenshot/9.jpg)
+![Screenshot 10](Screenshot/10.jpg)
+![Screenshot 11](Screenshot/11.jpg)
+![Screenshot 12](Screenshot/12.jpg)
+![Screenshot 13](Screenshot/13.jpg)
+![Screenshot 14](Screenshot/14.jpg)
+![Screenshot 15](Screenshot/15.jpg)
+![Screenshot 16](Screenshot/16.jpg)
+![Screenshot 17](Screenshot/17.jpg)
+![Screenshot 18](Screenshot/18.jpg)
+![Screenshot 19](Screenshot/19.jpg)
+![Screenshot 20](Screenshot/20.jpg)
+![Screenshot 21](Screenshot/21.jpg)
+![Screenshot 22](Screenshot/22.jpg)
 ![Screenshot 23](Screenshot/23.jpg)
